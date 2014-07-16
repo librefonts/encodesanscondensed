@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="EncodeSansCondensed-Light.ttf.GlyphOrder.ttx"/>
+  <head src="EncodeSansCondensed-Light.ttf._h_e_a_d.ttx"/>
+  <hhea src="EncodeSansCondensed-Light.ttf._h_h_e_a.ttx"/>
+  <maxp src="EncodeSansCondensed-Light.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="EncodeSansCondensed-Light.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="EncodeSansCondensed-Light.ttf._h_m_t_x.ttx"/>
+  <cmap src="EncodeSansCondensed-Light.ttf._c_m_a_p.ttx"/>
+  <fpgm src="EncodeSansCondensed-Light.ttf._f_p_g_m.ttx"/>
+  <prep src="EncodeSansCondensed-Light.ttf._p_r_e_p.ttx"/>
+  <cvt src="EncodeSansCondensed-Light.ttf._c_v_t.ttx"/>
+  <loca src="EncodeSansCondensed-Light.ttf._l_o_c_a.ttx"/>
+  <glyf src="EncodeSansCondensed-Light.ttf._g_l_y_f.ttx"/>
+  <name src="EncodeSansCondensed-Light.ttf._n_a_m_e.ttx"/>
+  <post src="EncodeSansCondensed-Light.ttf._p_o_s_t.ttx"/>
+  <gasp src="EncodeSansCondensed-Light.ttf._g_a_s_p.ttx"/>
+  <GPOS src="EncodeSansCondensed-Light.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="EncodeSansCondensed-Light.ttf.G_S_U_B_.ttx"/>
+</ttFont>
